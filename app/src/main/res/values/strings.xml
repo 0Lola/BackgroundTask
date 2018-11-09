@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BackgroundTask</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_alarm">Alarm</string>
+    <string name="title_job">Job</string>
+    <string name="content_notifiaction">直接通知</string>
+    <string name="content_job">任務</string>
+
+    <string name="timer">Sleeping...</string>
+    <string name="start">Start</string>
+    <string name="search">Search</string>
+
+    <string name="wait">Wait</string>
+    <string name="channel_name">FQ</string>
+    <string name="channel_description">FQQQQ</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+
+</resources>
